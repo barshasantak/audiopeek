@@ -3,37 +3,13 @@
      Design & Copy by Tara Design Studio
 ========================================================================= -->
 
-<header align="center" style="padding: 40px 0 20px 0;">
-
-  <img src="https://github.com/santakd/AudioPeek/blob/main/AudioPeek/AudioPeek/Assets.xcassets/AudioPeek_1024.png" width="160" height="160" alt="AudioPeek App Icon" style="filter: drop-shadow(0 12px 24px rgba(0,0,0,0.15));"/>
-
-  <h1 style="font-size: 3rem; font-weight: 800; letter-spacing: -0.03em; margin: 16px 0 8px 0;">
-    See Beneath the Waveform.
-  </h1>
-
-  <p style="font-size: 1.35rem; color: #6e6e73; max-width: 680px; margin: 0 auto 24px auto; line-height: 1.5;">
-    The native, studio-grade audio specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.
-  </p>
-
-  <div style="display: flex; justify-content: center; gap: 12px; margin-bottom: 16px;">
-    <a href="https://github.com/santakd/AudioPeek/releases/latest" style="background: #0071e3; color: white; padding: 12px 28px; border-radius: 980px; font-weight: 600; text-decoration: none; font-size: 1rem; box-shadow: 0 4px 14px rgba(0,113,227,0.3);">
-      Download for macOS
-    </a>
-    <a href="https://github.com/santakd/AudioPeek" style="background: #f5f5f7; color: #1d1d1f; padding: 12px 24px; border-radius: 980px; font-weight: 600; text-decoration: none; font-size: 1rem; border: 1px solid #d2d2d7;">
-      View on GitHub
-    </a>
-  </div>
-
-  <p style="font-size: 0.85rem; color: #86868b;">
-    macOS 13.0 Ventura or later • Universal Binary (Apple Silicon & Intel) • Free & Open Source
-  </p>
-
-</header>
+## 📖 The Hero Section
+See Beneath the Waveform. The native, studio-grade audio specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.
 
 ---
 
     ┌─────────────────────────────────────────────────────────────────────────────────────────────────────┐
-    │ 📂 Open File... │ ⚖️ Compare... │ 💾 Export JSON │ 📋 Copy │ [Report Font: A- 100% A+ ↺] 🔍 Filter  │
+    │ 📂 Open File... │ ⚖️ Compare... │ 💾 Export JSON │ 📋 Copy │ Report Font: A- 100% A+ ↺   🔍 Filter  │
     ├─────────────────────────────────────────────────────────────────────────────────────────────────────┤
     │ MASTER_96k24b.wav (File A) │ [ ↔ 2 Mismatches ] │ STREAM_DIST.m4a (File B)                          │
     │ Format: Linear PCM 24-bit 96kHz │ Time Drift: +25.00 ms │ Format: Apple Lossless (ALAC)             │
