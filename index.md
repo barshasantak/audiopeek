@@ -7,9 +7,10 @@
 ![AudioPeek](https://raw.githubusercontent.com/barshasantak/audiopeek/main/AudioPeek_512.png)
 <br>
 
-See Beneath the Waveform. The native, studio-grade audio specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.
+See Beneath the Waveform.
+The native, studio-grade audio specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.
 
----
+
 
     ┌─────────────────────────────────────────────────────────────────────────────────────────────────────┐
     │ 📂 Open File... │ ⚖️ Compare... │ 💾 Export JSON │ 📋 Copy │ Report Font: A- 100% A+ ↺   🔍 Filter  │
@@ -25,7 +26,7 @@ See Beneath the Waveform. The native, studio-grade audio specification analyzer 
     │ Duration 03:45.120 [DIFF] 03:45.145 (Drift: +25.0 ms)                                               │
     └─────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
-    ---
+
 
 ## 📖 The Product Story
 
@@ -41,7 +42,7 @@ We asked a simple question: **What if you had a blazing-fast, visually pristine 
 
 AudioPeek was created at **Tara Design Studio** to answer that need. Built from the ground up in 100% native Swift and SwiftUI, AudioPeek taps directly into Apple’s low-level `CoreAudio`, `AudioToolbox`, and `CryptoKit` engines. No web runtimes. No memory bloat. Just pure, instant audio intelligence.
 
----
+
 
 ## ⚡ Key Features
 
@@ -78,7 +79,7 @@ AudioPeek was created at **Tara Design Studio** to answer that need. Built from 
   </tr>
 </table>
 
----
+
 
 ## 🎯 Universal Format Support
 
@@ -92,7 +93,7 @@ AudioPeek parses both uncompressed studio masters and modern web formats:
 | **Audiophile & Archival** | **DSD / SACD** (Direct Stream Digital `.dsf`, `.dff` at DSD64 to DSD512), **WavPack** (`.wv`) |
 | **Legacy Media** | **MP3** (MPEG-1/2/2.5 Layers I, II, III with CBR/VBR & LAME encoder tags) |
 
----
+
 
 ## 🏆 Why AudioPeek is Different
 
@@ -110,7 +111,7 @@ Most diagnostic utilities are bloated ports. AudioPeek is built exclusively for 
     │ Cryptographic Hashing      │ ✅ Hardware NEON   │ ⚠️ Slow JS Pipe  │ ⚠️ Separate md5 │
     └──────────────────────────────────────────────────────────────────────────────────────┘
 
----
+
 
 ## ✨ User Experience Highlights
 
@@ -125,16 +126,16 @@ Thanks to non-blocking stream demuxing, dropping a **15 GB DSD256 orchestra mast
 * Universal keyboard shortcuts (`⌘O` to open, `⌘E` to export, `⌘C` to copy, `⌘+` to scale text, `⇧⌘L` to view logs).
 * Multi-column search bar that filters keys and values instantly as you type.
 
----
+
 
 ## 🚀 Elevate Your Audio Workflow
 
 Stop guessing what is inside your audio containers. Verify bit depths, confirm sample rate conversions, and validate release metadata with pixel-perfect precision.
 
 
----
 
-## 💬 Help, Community & Support
+
+## 💬 Help & Support
 
 ### Frequently Asked Questions
 
@@ -158,16 +159,13 @@ Stop guessing what is inside your audio containers. Verify bit depths, confirm s
 <p>You can open an issue or start a discussion on our official <a href="https://github.com/barshasantak/audiopeek/issues">GitHub Issues page</a>.</p>
 </details>
 
----
 
-### Contact & Studio Credits
+### Support
 
-AudioPeek is designed and maintained by **Santak Das** at **Tara Design Studio**.
+You can report any issues here: [https://github.com/barshasantak/audiopeek/issues](https://github.com/barshasantak/audiopeek/issues){:target="_blank"}
 
-* **Bug Reports:** [Submit an Issue](https://github.com/barshasantak/audiopeek/issues)
-
----
-
-<footer align="center" style="margin-top: 40px; padding: 20px 0; border-top: 1px solid #e5e5e7; color: #86868b; font-size: 0.85rem;">
-  <p>© 2026 Santak Das, Tara Design Studio. All Rights Reserved.</p>
-</footer>
+ <br>
+ 
+ <hr>
+   <small>© 2026 Santak Das, Tara Design Studio. All rights reserved.</small>
+ <br>
