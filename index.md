@@ -1,9 +1,9 @@
 <!-- =========================================================================
      AUDIOPEEK PUBLIC WEBSITE
-     Design & Copy by Tara Design Studio
+     Design by Tara Design Studio
 ========================================================================= -->
 
-## 📖 The Hero Section
+## 🎹 The Hero Section
 ![AudioPeek](https://raw.githubusercontent.com/barshasantak/audiopeek/main/AudioPeek_256.png)
 <br>
 
@@ -99,17 +99,17 @@ AudioPeek parses both uncompressed studio masters and modern web formats:
 
 Most diagnostic utilities are bloated ports. AudioPeek is built exclusively for macOS:
 
-    ┌──────────────────────────────────────────────────────────────────────────────────────┐
-    │ METRIC                     │ AUDIOPEEK          │ ELECTRON APPS    │ FFPROBE (CLI)   │
-    ├────────────────────────────┼────────────────────┼──────────────────┼─────────────────┤
-    │ Native macOS Architecture  │ ✅ 100% Swift      │ ❌ Chromium/Node │ ⚠️ C Utility    │
-    │ Launch Time                │ ⚡ < 10 ms          │ 🐢 1,500+ ms     │ ⚡ Fast          │
-    │ Memory Footprint           │ 🪶 ~ 20 MB         │ 🐘 400 MB - 1 GB │ 🪶 ~ 15 MB      │
-    │ Visual A-B Diff Mode       │ ✅ Built-in Split  │ ❌ None          │ ❌ Manual diff  │
-    │ Drag & Drop 2 Files        │ ✅ Instant Compare │ ❌ Single file   │ ❌ No GUI       │
-    │ ProMotion 120Hz Rendering  │ ✅ Smooth          │ ❌ Frame drops   │ ❌ Terminal     │
-    │ Cryptographic Hashing      │ ✅ Hardware NEON   │ ⚠️ Slow JS Pipe  │ ⚠️ Separate md5 │
-    └──────────────────────────────────────────────────────────────────────────────────────┘
+    ┌─────────────────────────────────────────────────────────────────────┐
+    │ METRIC                     │ AUDIOPEEK          │ ELECTRON APPS     │
+    ├────────────────────────────┼────────────────────┼───────────────────┼
+    │ Native macOS Architecture  │ ✅ 100% Swift      │ ❌ Chromium/Node  │ 
+    │ Launch Time                │ ⚡ < 10 ms          │ 🐢 1,500+ ms      │ 
+    │ Memory Footprint           │ 🪶 ~ 20 MB         │ 🐘 400 MB - 1 GB  │ 
+    │ Visual A-B Diff Mode       │ ✅ Built-in Split  │ ❌ None           │ 
+    │ Drag & Drop 2 Files        │ ✅ Instant Compare │ ❌ Single file    │ 
+    │ ProMotion 120Hz Rendering  │ ✅ Smooth          │ ❌ Frame drops    │ 
+    │ Cryptographic Hashing      │ ✅ Hardware NEON   │ ⚠️ Slow JS Pipe   │ 
+    └─────────────────────────────────────────────────────────────────────┘
 
 
 
