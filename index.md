@@ -151,7 +151,7 @@ Stop guessing what is inside your audio containers. Verify bit depths, confirm s
 
 <details>
 <summary><strong>Is AudioPeek private?</strong></summary>
-<p>Yes. AudioPeek is 100% secured. It contains zero analytics, no telemetry, no tracking, and never makes unauthorized network connections.</p>
+<p>Yes. AudioPeek is 100% secure. It contains zero analytics, no telemetry, no tracking, and never makes unauthorized network connections.</p>
 </details>
 
 <details>
