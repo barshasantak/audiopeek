@@ -38,7 +38,7 @@ If you work with sound—whether you are a mastering engineer, sound designer, p
 * **Legacy tag editors** focus only on artist and album text, completely ignoring the structural reality of the bitstream: *Audio Stream Basic Descriptions (ASBD), true quantization bit depths, pre-skip encoder delays, and uncompressed channel maps.*
 * **Cross-platform Electron utilities** lag, consume gigabytes of RAM, and take seconds just to launch.
 
-We asked a simple question: **What if you had a blazing-fast, visually pristine Mac app that reveals the complete DNA of any audio file in under 2 milliseconds?**
+We asked a simple question: **What if you had a blazing-fast, visually pristine Mac app that reveals the complete DNA of any audio file in under 200 milliseconds?**
 
 AudioPeek was created at **Tara Design Studio** to answer that need. Built from the ground up in 100% native Swift and SwiftUI, AudioPeek taps directly into Apple’s low-level `CoreAudio`, `AudioToolbox`, and `CryptoKit` engines. No web runtimes. No memory bloat. Just pure, instant audio intelligence.
 
