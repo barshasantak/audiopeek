@@ -1,8 +1,0 @@
----
----
-@import "{{ site.theme }}";
-
-// For Cayman / Architect / Merlot themes
-.inner, .wrapper, .shell {
-  max-width: 90%; // Adjust percentage or use pixels like 1100px
-}
