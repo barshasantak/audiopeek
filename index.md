@@ -11,7 +11,6 @@
 The native, studio-grade audio specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.
 
 
-
     ┌─────────────────────────────────────────────────────────────────────────────────────────────────────┐
     │ 📂 Open File... │ ⚖️ Compare... │ 💾 Export JSON │ 📋 Copy │ Report Font: A- 100% A+ ↺   🔍 Filter  │
     ├─────────────────────────────────────────────────────────────────────────────────────────────────────┤
