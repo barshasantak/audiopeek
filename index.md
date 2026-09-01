@@ -223,7 +223,18 @@ Stop guessing what is inside your audio containers. Verify bit depths, confirm s
     </div>
   </details>
 
-  <!-- Question 4 -->
+ <!-- Question 4 -->
+  <details style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; overflow: hidden; background: rgba(128,128,128,0.02); transition: all 0.2s ease;">
+    <summary style="padding: 14px 18px; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; font-size: 1rem;">
+      <span>Can AudioPeek verify true Hi-Res Lossless formats, bit depths, and multichannel channel layouts?</span>
+      <span style="font-size: 0.75rem; color: #0071e3; font-weight: 600; background: rgba(0,113,227,0.1); padding: 4px 10px; border-radius: 999px; white-space: nowrap; margin-left: 12px;">+ View Answer ▾</span>
+    </summary>
+    <div style="padding: 14px 18px 18px 18px; border-top: 1px solid rgba(128,128,128,0.15); color: #424245; font-size: 0.95rem; line-height: 1.6; background: rgba(128,128,128,0.01);">
+      Yes. AudioPeek introspects container headers to verify true quantization bit depth (16-bit, 24-bit, or 32-bit floating point), native sampling rates (44.1 kHz up to 192+ kHz), bitrates (CBR vs. VBR), and channel layouts (Mono, Stereo, 5.1 Surround, 7.1.2/7.1.4 Spatial Audio beds) across FLAC, ALAC, WAV, AIFF, AAC, and MP3 without audio decoding or playback latency.
+    </div>
+  </details>
+  
+  <!-- Question 5 -->
   <details style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; overflow: hidden; background: rgba(128,128,128,0.02); transition: all 0.2s ease;">
     <summary style="padding: 14px 18px; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; font-size: 1rem;">
       <span>How do I report a bug or request a new codec?</span>
