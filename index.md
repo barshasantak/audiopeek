@@ -7,7 +7,7 @@
 ![AudioPeek](https://raw.githubusercontent.com/barshasantak/audiopeek/main/AudioPeek_256.png)
 <br>
 
-See Beneath the Waveform.
+### See Beneath the Waveform with AudioPeek.
 The native, studio-grade audio specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.
 
 
